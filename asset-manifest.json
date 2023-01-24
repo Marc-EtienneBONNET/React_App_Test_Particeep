@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_App_Test_Particeep/static/css/main.c9c6a0f6.css",
+    "main.js": "/React_App_Test_Particeep/static/js/main.ff312440.js",
+    "index.html": "/React_App_Test_Particeep/index.html",
+    "main.c9c6a0f6.css.map": "/React_App_Test_Particeep/static/css/main.c9c6a0f6.css.map",
+    "main.ff312440.js.map": "/React_App_Test_Particeep/static/js/main.ff312440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c6a0f6.css",
+    "static/js/main.ff312440.js"
+  ]
+}
